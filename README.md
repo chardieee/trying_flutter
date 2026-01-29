@@ -1,16 +1,2 @@
-# trying_flutter
+In our earlier discussion sir about Git, GitHub, and more is it helped me better understand how GitHub works, especially the process of creating a repository.  I realized that creating a repository is not just a technical task it’s also about being organized and professional as a developer. Small details like naming projects correctly and adding a README might seem easy, but they really matter in the long run. It made me think about how future me or others might use my work. I also discovered that GitHub is more than a place to store code; it's a tool for working together and learning. I initially felt unsure about using it, but now I feel more confident and motivated to practice. This experience pushed me to be more responsible with managing my projects. Overall, because of this understanding it changed my perspective and made GitHub feel more helpful and less intimidating.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
